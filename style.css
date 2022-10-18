@@ -1,0 +1,30 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+    color: rgb(52, 165, 52);
+    border: 1px solid green;
+    border-radius: 10px;
+}
+
+canvas{
+    border-radius: 10px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.cobra{
+    width: 60px;
+    height: 60px;
+    margin-left: 10px;
+}
+
